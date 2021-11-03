@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cglascogueye
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning about FOLIO and brushing up on my Java.
+- 🌱 I’m currently learning about FOLIO and brushing up on my Java. I also want to improve my GitHub skills.
 - 💞️ I’m looking to collaborate on beginners who code
 - 📫 How to reach me cglascogueye@gmail.com
 
